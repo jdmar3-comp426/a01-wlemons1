@@ -1,0 +1,52 @@
+h1 {
+    color: #e7e417;
+    background-color: #000000;
+    font-family:'Trebuchet MS';
+}
+
+p {
+    font-family:'Courier New';
+}
+
+a {
+    color: #e7e417;
+    background-color: #0000ff;
+    padding: 10px;
+    margin: 5px;
+}
+
+a:hover {
+    border-style: solid;
+    border-color: #e7e417;
+}
+
+* {
+    color: #e7e417;
+    background-color: #000000;
+}
+
+#home {
+    color: #e7e417;
+    border-style: solid;
+    border-color: #e7e417;
+    padding: 10px;
+}
+
+.heading {
+    background-color: #332bac;
+    padding: 20px;
+}
+
+.heading h1 {
+    background-color: #332bac;
+}
+
+li {
+    font-family: 'Courier New';
+}
+
+img {
+    height: 100px;
+    width: 200px;
+    background-color: #ffffff;
+}
